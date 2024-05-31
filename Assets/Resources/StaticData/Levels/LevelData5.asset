@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf954e7d4a208b4dba1c61756e2e5d3, type: 3}
+  m_Name: LevelData5
+  m_EditorClassIdentifier: 
+  LevelKey: 5
+  EnemySpawners:
+  - Id: 41
+    MonsterTypeId: 22
+    Position: {x: -2.85, y: 1, z: -5.4200006}
+    IdRaid: 5
+  - Id: 42
+    MonsterTypeId: 43
+    Position: {x: -0.88, y: 1, z: -5.52}
+    IdRaid: 5
+  - Id: 43
+    MonsterTypeId: 22
+    Position: {x: 1.05, y: 1, z: -5.52}
+    IdRaid: 5
+  - Id: 44
+    MonsterTypeId: 39
+    Position: {x: 3.1599998, y: 1, z: -5.6}
+    IdRaid: 5
+  - Id: 45
+    MonsterTypeId: 39
+    Position: {x: 4.86, y: 1, z: -5.5500007}
+    IdRaid: 5
+  - Id: 46
+    MonsterTypeId: 39
+    Position: {x: 7.0899997, y: 1, z: -5.5000005}
+    IdRaid: 5
+  - Id: 47
+    MonsterTypeId: 22
+    Position: {x: 9.43, y: 1, z: -5.4200006}
+    IdRaid: 5
+  - Id: 48
+    MonsterTypeId: 22
+    Position: {x: 11.16, y: 1, z: -5.4500003}
+    IdRaid: 5
+  - Id: 49
+    MonsterTypeId: 39
+    Position: {x: 13.120001, y: 1, z: -5.44}
+    IdRaid: 5
+  - Id: 50
+    MonsterTypeId: 58
+    Position: {x: 14.92, y: 1, z: -5.468}
+    IdRaid: 5

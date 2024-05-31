@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7e7b0ca845980f4baf7d16d8fd93298, type: 3}
+  m_Name: BaseCard
+  m_EditorClassIdentifier: 
+  TypeIcons:
+  - {fileID: 21300000, guid: 81d709cd46edba044826648a2c3e8872, type: 3}
+  - {fileID: 21300000, guid: 661fa4c5cf1492c4e9c69524384026e1, type: 3}
+  - {fileID: 21300000, guid: 597f07d47bca3324ab21afc2e31032a6, type: 3}
+  TypeColors:
+  - {r: 0.27002048, g: 0.5943396, b: 0, a: 1}
+  - {r: 0.59607846, g: 0.5586559, b: 0, a: 1}
+  - {r: 0.59607846, g: 0.058776222, b: 0, a: 1}
+  TypeSprites:
+  - {fileID: 21300000, guid: c36cc673e6abeff4285b8d792a9ac228, type: 3}
+  - {fileID: 21300000, guid: 69497c9cc4ca87a40947c95e8e9d6b68, type: 3}
+  - {fileID: 21300000, guid: fdc76a74a3096774e8298a652d6b7f02, type: 3}
